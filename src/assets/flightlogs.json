@@ -1,0 +1,5 @@
+[
+    {"date": "2025-07-27", "number": "UA189", "tail": "N2748U", "from": "SFO", "to": "MNL", "status": "COMPLETED"},
+    {"date": "2025-07-26", "number": "UA189", "tail": "N2747U", "from": "SFO", "to": "MNL", "status": "MISSED"},
+    {"date": "2025-07-17", "number": "UA190", "tail": "N2639U", "from": "MNL", "to": "SFO", "status": "COMPLETED"}
+]
